@@ -1,11 +1,12 @@
 <div align="center">
 	<a href="https://github.com/snapflowio">
-  		<img src="https://raw.githubusercontent.com/snapflowio/.github/main/assets/logo.png" alt="Logo" width="95" height="95" />
+  		<img src="https://raw.githubusercontent.com/snapflowio/.github/main/assets/banner.png" alt="Snapflow banner" width="1280" height="640" />
 	</a>
 </div>
 
+<br>
+
 <div align="center">
-	<h1>Snapflow</h1>
 	<a href="https://snapflow.io">Official Website</a>
 	・
     <a href="mailto:contact@snapflow.io">Contact Us</a>
